@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Victoria</h1>
 <h3 align="center">Front End Developer</h3>
 
--  💻 Este es mi portafolio: [https://viancalaf-portafolio.web.app/](https://viancalaf-portafolio.web.app/)
-
 - 👩‍💻 Tecnologías con las que más he trabajado: **JavaScript, CSS, HTML, React.js, Next.js**
+  
+-  💻 Este es mi portafolio: [https://viancalaf-portafolio.web.app/](https://viancalaf-portafolio.web.app/)
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
